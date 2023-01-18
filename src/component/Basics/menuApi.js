@@ -1,8 +1,8 @@
 const Menu = [
     {
         id: 3,
-        image:"images/Corn.png",
-        name:"Corn", 
+        image:"images/paratha.png",
+        name:"Paratha", 
         category: "Breakfast",
         price: "10",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit porro sunt illo dolorem dignissimos mollitia fuga qui, unde quam fugiat!",
