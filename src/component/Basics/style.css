@@ -1,0 +1,116 @@
+body{
+    padding:0;
+    margin:0;
+    background-color: rgb(236, 245, 116);
+}
+
+.btn-group__item{
+    /* border: 10px solid #3c00ff; */
+    font-size:25px;
+    padding: 5px 20px;
+    font-weight: bolder;
+    color:#7d0ce6;
+    background-color: yellow;
+    border-color: yellow;
+    margin-left: 55px;
+    border-radius:8px;
+}
+
+.btn-group__item:hover{
+    background-color:blueviolet;
+    color:yellow;
+}
+
+.Nav{
+    /* border: 5px solid rgb(0, 8, 255); */
+    /* padding:0; */
+    width: 223px;
+    display:inline-block;
+    justify-content: center;
+    /* float:left; */
+    padding: 20px 0;
+    background-color: rgb(242, 47, 47);
+    /* margin-bottom: 40px; */
+}
+
+.card-container{
+    /* border: 5px solid red; */
+    /* width: 350px; */
+    width:30%;
+    /* padding: 10px 15px 20px 15px; */
+    padding:2%;
+    /* margin:20px; */
+    /* margin:100%; */
+    /* background-color: hsl(217, 81%, 49%); */
+    background-color: rgb(153, 115, 69);
+    border-radius: 8px;
+}
+
+.card-container:first-child{
+    padding-left: 20px;
+}
+
+.card-author{
+    display:none;
+}
+
+.card-title{
+    color: hsl(120, 96%, 50%);
+    display:flex;
+    /* align-items:center; */
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.card-description{
+    display:flex;
+    text-align: justify;
+}
+
+.card-read{
+    color:aquamarine;
+    font-weight: bolder;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.card-tag{
+    /* border: 1px solid red; */
+    display:block;
+    padding:0px;
+    text-decoration: underline;
+    color:red;
+    font-weight: bold;
+    justify-content: left;
+    align-items:flex-end;
+    width:90px;
+    text-decoration:underline;
+    margin-left:250px;
+    cursor: pointer;
+}
+
+
+.card-container{
+    border: 1px solid rgb(0, 255, 34);
+    display: flex;
+    /* float:left; */
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin:30px 70px;
+}
+
+.card-container:first-child{
+    margin-top: 50px;
+}
+
+.card-media{
+    width:300px;
+    height:250px;
+    padding:0;
+    margin:0;
+    /* border:1px solid red; */
+    /* z-index: 1;
+    top:40px; */
+}
+
