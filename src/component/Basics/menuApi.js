@@ -5,7 +5,7 @@ const Menu = [
         name:"Paratha", 
         category: "Breakfast",
         price: "10",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit porro sunt illo dolorem dignissimos mollitia fuga qui, unde quam fugiat!",
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Immpedit porro sunt illo dolorem dignissimos mollitia fuga qui, unde quam fugiat!",
     },
     {
         id: 4,
